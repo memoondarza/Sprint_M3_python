@@ -19,7 +19,7 @@ guillermo = [
     "24/12/1961",
     "61"    
 ]
-"""
+
 sara = [
     3,
     "Sara Corvalán",
@@ -106,7 +106,7 @@ spiderman = [
     "01/01/1990",
     "33"
 ]
-"""
-super_heroes = [capitan_america, guillermo] #, sara, romina, superman, batman, batwoman, viuda_negra, bruja_escarlata, spiderman]
+
+super_heroes = [capitan_america, guillermo, sara, romina, superman, batman, batwoman, viuda_negra, bruja_escarlata, spiderman]
 
 
